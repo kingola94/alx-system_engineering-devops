@@ -1,2 +1,2 @@
 #!/bin/bash
-path=’readlink -f “${BASH_SOURCE:-$0}”’
+realpath 0x00-shell_basics
